@@ -22,3 +22,9 @@ cout<<("this a documentation);
 ```
 
 `<script>`
+
+#Heading
+
+##sub-heading
+* options :new option
+* *option* :new bold option
