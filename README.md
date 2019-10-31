@@ -12,3 +12,13 @@ this is for the bullet
 
 for the immages 
 [!images](this.jpg) this is images 
+
+
+## code 
+
+```
+cout<<("this a documentation);
+
+```
+
+`<script>`
